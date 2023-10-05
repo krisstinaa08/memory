@@ -1,4 +1,5 @@
 #создай приложение для запоминания информации
+#создай приложение для запоминания информации
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import (QApplication,QButtonGroup, QWidget, QHBoxLayout, QVBoxLayout, QGroupBox, QRadioButton, QPushButton, QLabel)
 from random import shuffle, randint 
